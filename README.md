@@ -54,36 +54,36 @@ This project demonstrates best practices in **VPC design, load balancing, auto s
 
 ## 🖼️ Screenshots
 ### Architecture Diagram
-![Architecture Diagram](./Architecture%20project.png)
+![Architecture Diagram](./screenshots/Architecture%20project.png)
 
 ### VPC
-![VPC](./VPC.png)
+![VPC](./screenshots/VPC.png)
 
 ### security group
-![security group](./security%20group.png)
+![security group](./screenshots/security%20group.png)
 
 ### EFS
-![EFS](./EFS.png)
+![EFS](./screenshots/EFS.png)
 
 ### Create ALB & Target Group
-![ALP](./ALB-first.png)
-![ALP-details](./ALB-details.png)
-![ALP-after change](./ALB-after%20change.png)
-![target group](./target%20group.png)
+![ALP](./screenshots/ALB-first.png)
+![ALP-details](./screenshots/ALB-details.png)
+![ALP-after change](./screenshots/ALB-after%20change.png)
+![target group](./screenshots/target%20group.png)
 
 
 ### Create Launch Template & ASG
-![ASG](./ASG.png)
+![ASG](./screenshots/ASG.png)
 
 ### EC2
-![EC2](./EC2%20instance.png)
-![EC2-after change](./EC2%20after%20change.png)
+![EC2](./screenshots/EC2%20instance.png)
+![EC2-after change](./screenshots/EC2%20after%20change.png)
 
 
 ### S3 
-![S3](./S3%20logs.png)
-![S3](./S3%20edtails.png)
-![S3](./connect%20s3%20with%20ALB.png)
+![S3](./screenshots/S3%20logs.png)
+![S3](./screenshots/S3%20edtails.png)
+![S3](./screenshots/connect%20s3%20with%20ALB.png)
 
 ---
 
